@@ -1,1 +1,6 @@
-# Park-Sangyun.github.io
+# 국민대학교 20212994 박상윤
+## build한 과정
+### jekyll을 이용하여 제작
+### window 환경에서 만듬
+### 수업했던 영상들을 바탕으로 제작
+### github를 이용하여 블로그를 운영
